@@ -1,0 +1,5 @@
+<style>
+.my-custom-class {
+    font-size: 12px; /* Altere o tamanho da fonte conforme necessário */
+}
+</style>
